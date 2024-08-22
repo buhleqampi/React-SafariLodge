@@ -2,7 +2,11 @@
   text-align: center;
 }
 
-.App-logo {
+.about {
+  font-weight: bold;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +39,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
