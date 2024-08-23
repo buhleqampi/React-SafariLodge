@@ -34,6 +34,7 @@ function AboutPage() {
   return (
     <>
     <div className="about">
+      <h1>About</h1>
     </div>
       <p>Saving habitats<br />one generation at a time.</p>
     </>
